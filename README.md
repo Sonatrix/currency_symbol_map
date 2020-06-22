@@ -1,6 +1,6 @@
 # CurrencySymbolMap
 
-**TODO: Add description**
+**Package to lookup the currency symbol for a given currency code**
 
 ## Installation
 
